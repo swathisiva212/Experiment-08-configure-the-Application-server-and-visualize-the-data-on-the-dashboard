@@ -34,16 +34,38 @@ As the application server market matures, high performance becomes a stronger cr
 
 ## OUTPUT 
  
-<img width="1920" height="1080" alt="Screenshot 2025-11-17 141948" src="https://github.com/user-attachments/assets/617fff81-0777-4b94-8fa8-143682d91d3c" />
+<img width="1037" height="558" alt="image" src="https://github.com/user-attachments/assets/4cf7d3d7-01ed-4da8-897b-f0834ad04afa" />
+
+<img width="912" height="726" alt="image" src="https://github.com/user-attachments/assets/9121499e-b20b-4c33-9941-d9b996b8c35f" />
+<img width="938" height="702" alt="image" src="https://github.com/user-attachments/assets/9f56d978-4cd2-44b7-a7ee-ad9a825f6c93" />
+<img width="1043" height="562" alt="image" src="https://github.com/user-attachments/assets/f8e1046d-2172-4b67-a035-ffcfb87c20c0" />
+<img width="1026" height="503" alt="image" src="https://github.com/user-attachments/assets/490ff17a-5299-46ff-9c31-058dfc847eb4" />
+<img width="1027" height="532" alt="image" src="https://github.com/user-attachments/assets/35e86278-944b-4734-9ce1-e17e79032385" />
+
+<img width="1037" height="525" alt="image" src="https://github.com/user-attachments/assets/714d19c2-86b5-4582-95b3-7ef9b139bfbc" />
+
+
+
+
+AT COMMANDS:
+
+<img width="1012" height="535" alt="image" src="https://github.com/user-attachments/assets/6b9dc6fc-eb3a-460c-a515-2d12ad54d4de" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-17 141659" src="https://github.com/user-attachments/assets/fe32484e-b449-4d11-8415-ba1826abb165" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-17 141725" src="https://github.com/user-attachments/assets/c4cc336f-460e-46dc-81dd-cd86a698d5ad" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-17 141745" src="https://github.com/user-attachments/assets/e728c8f3-f1b0-4a93-91b9-74fe5b719b43" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-17 141807" src="https://github.com/user-attachments/assets/b308253a-407f-47a0-9174-ef8b36c3131b" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-17 141840" src="https://github.com/user-attachments/assets/5a8ae347-e13e-42a0-aae3-26ea612aa859" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-17 141900" src="https://github.com/user-attachments/assets/6c73630d-b887-416f-a0ae-6a26d46bab55" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-17 141920" src="https://github.com/user-attachments/assets/b2984900-82bf-4f35-bda1-7c5a7c574c28" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-17 141948" src="https://github.com/user-attachments/assets/e4159c27-02cc-418d-b914-5252e1a777ef" />
+
 <img width="1914" height="989" alt="image" src="https://github.com/user-attachments/assets/003ad1e2-0be3-4873-8947-6d62e0cb306a" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-28 090234" src="https://github.com/user-attachments/assets/6f8f4aa8-a00e-4b5f-bd56-08df85cb3e7f" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-28 090259" src="https://github.com/user-attachments/assets/3e982295-272c-43e8-b701-b884b28cac68" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-28 090328" src="https://github.com/user-attachments/assets/09e9df0e-108e-4f39-921b-0d0ec114cb26" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cac29f10-80f4-4fd6-bb4d-fdd5a79bc6c6" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-26 142347" src="https://github.com/user-attachments/assets/6ba30efc-2dd7-4c6b-8278-ad12a4fc3333" />
-
-
-
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26b475ae-0ac6-4d11-bab6-0c1ef7c24664" />
 
