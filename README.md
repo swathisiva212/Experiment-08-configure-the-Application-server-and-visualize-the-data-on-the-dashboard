@@ -67,7 +67,8 @@ AT COMMANDS:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cac29f10-80f4-4fd6-bb4d-fdd5a79bc6c6" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-26 142347" src="https://github.com/user-attachments/assets/6ba30efc-2dd7-4c6b-8278-ad12a4fc3333" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26b475ae-0ac6-4d11-bab6-0c1ef7c24664" />
+<img width="1041" height="520" alt="image" src="https://github.com/user-attachments/assets/d7c31b3c-6fdc-4e9a-af1f-fa4efa110899" />
+
 
 
 
